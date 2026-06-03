@@ -1,6 +1,6 @@
 # Prácticas de Administración de Sistemas Linux - Red Hat Enterprise Linux (RHEL)
 
-## Descripción
+##
 
 Este repositorio contiene el desarrollo de prácticas enfocadas en la administración de sistemas operativos Linux utilizando Red Hat Enterprise Linux (RHEL). Durante estas actividades se aplican conceptos fundamentales relacionados con la instalación del sistema operativo, configuración de red, administración de usuarios y grupos, gestión de permisos y manejo de archivos y directorios.
 
